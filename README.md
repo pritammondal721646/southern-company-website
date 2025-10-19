@@ -19,10 +19,6 @@ southern-company-website/
 ├─ images/ # Images used in the website
 └─ README.md # Project documentation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/southern-company-website.git
-Open index.html in your browser.
 
 Author
 Pritam Mondal
