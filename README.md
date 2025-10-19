@@ -26,3 +26,7 @@ Open index.html in your browser.
 
 Author
 Pritam Mondal
+
+## Preview
+
+![Southern Company Website Preview](images/preview.png)
