@@ -4,7 +4,7 @@ This repository contains the **responsive web version** of the Southern company 
 
 ## Features
 
-- Fully responsive layout (desktop, tablet, mobile)
+
 - Modern HTML5 structure and semantic tags
 - Styled using CSS3
 - Includes header, footer, sections, and content based on the Figma design
